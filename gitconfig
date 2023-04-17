@@ -62,3 +62,6 @@
 [user]
 	email = irinamiron@hotmail.com
 	name = irina miron
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
